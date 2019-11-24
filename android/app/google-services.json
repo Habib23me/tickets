@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400392487205",
+    "firebase_url": "https://tickets-31d18.firebaseio.com",
+    "project_id": "tickets-31d18",
+    "storage_bucket": "tickets-31d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400392487205:android:1b75e0252f9a316ffc1acc",
+        "android_client_info": {
+          "package_name": "com.example.tickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400392487205-cuuvtgp3j5aelrhiif0d2b19isdb9eeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjQe48qS_S-SvFexqt-s9Nel-awq5pIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400392487205-cuuvtgp3j5aelrhiif0d2b19isdb9eeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
